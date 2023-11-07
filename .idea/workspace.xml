@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c4ba54-430c-47fd-99cd-c84b81ec01ea" name="Changes" comment="Commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/agenda_contatos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/agenda_contatos/model/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/agenda_contatos/model/Contato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/carrinho_compras/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/carrinho_compras/model/Carrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/carrinho_compras/model/Item.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +37,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/20201114010055/Documents/IntelliJ/java-oo-exercicios/src/main/java/com/github/carlos_paz12/java_oo_exercicios"
+    "last_opened_file_path": "C:/Users/20201114010055/Documents/IntelliJ/java-oo-exercicios/src/main/java/com/github/carlos_paz12/java_oo_exercicios/carrinho_compras"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\20201114010055\Documents\IntelliJ\java-oo-exercicios\src\main\java\com\github\carlos_paz12\java_oo_exercicios\carrinho_compras" />
       <recent name="C:\Users\20201114010055\Documents\IntelliJ\java-oo-exercicios\src\main\java\com\github\carlos_paz12\java_oo_exercicios" />
     </key>
   </component>
