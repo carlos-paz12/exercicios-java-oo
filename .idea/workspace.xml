@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c4ba54-430c-47fd-99cd-c84b81ec01ea" name="Changes" comment="Commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Model/Anao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Model/Barbaro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Model/Classe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Model/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/banco_virtual/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/banco_virtual/model/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/20201114010055/Documents/IntelliJ/java-oo-exercicios/src/main/java/com/github/carlos_paz12/java_oo_exercicios"
   }
 }]]></component>
@@ -47,6 +54,29 @@
       <recent name="C:\Users\20201114010055\Documents\IntelliJ\java-oo-exercicios\src\main\java\com\github\carlos_paz12\java_oo_exercicios" />
       <recent name="C:\Users\20201114010055\Documents\IntelliJ\java-oo-exercicios\src\main\java\com\github\carlos_paz12\java_oo_exercicios\carrinho_compras" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.github.carlos_paz12.java_oo_exercicios.banco_virtual" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.carlos_paz12.java_oo_exercicios.banco_virtual.Main" />
+      <module name="java-oo-exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.carlos_paz12.java_oo_exercicios.banco_virtual.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
