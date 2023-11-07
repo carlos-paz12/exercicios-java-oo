@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c4ba54-430c-47fd-99cd-c84b81ec01ea" name="Changes" comment="Commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/paises/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/paises/model/Pais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Model/Anao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Model/Barbaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Model/Classe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/polimorfismo/Model/Mago.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
