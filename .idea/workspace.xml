@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c4ba54-430c-47fd-99cd-c84b81ec01ea" name="Changes" comment="Commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/caderno_tarefas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/caderno_tarefas/model/CadernoTarefas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/caderno_tarefas/model/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/tamagotchi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/carlos_paz12/java_oo_exercicios/tamagotchi/model/Tamagotchi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
